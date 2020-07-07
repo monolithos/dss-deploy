@@ -24,4 +24,4 @@
 	url = https://github.com/monolithos/dss
 [submodule "lib/esm"]
 	path = lib/esm
-	url = https://github.com/makerdao/esm
+	url = https://github.com/monolithos/esm
